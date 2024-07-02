@@ -1,1 +1,1 @@
-## Markdown to html converter
+## Markdown to html converter using Node.js
